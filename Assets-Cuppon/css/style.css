@@ -1,0 +1,35 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 10px;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.container {}
+
+.navegacion {
+    background-color: #28a745;
+}
+
+.card-title {
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-link {
+    color: #28a745;
+    font-size: 25px;
+}
+
+.footer {}
+
+.datos {
+    background-color: #28a745;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    padding: 0;
+}
